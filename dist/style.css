@@ -1,0 +1,9 @@
+body {
+	font-family: sans-serif;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	gap: 20px;
+}

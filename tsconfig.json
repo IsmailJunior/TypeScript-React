@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"target": "ES2022",
+		"module": "commonjs",
+		"lib": ["dom", "es2021", "scripthost"],
+		"jsx": "react-jsx",
+		"moduleResolution": "node",
+		"allowJs": true,
+		"resolveJsonModule": true,
+		"preserveSymlinks": true,
+		"downlevelIteration": true,
+		"skipLibCheck": true,
+		"esModuleInterop": true,
+		"sourceMap": true
+	},
+	"include": ["src"]
+}
